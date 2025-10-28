@@ -1,0 +1,7 @@
+frase = input('Digite uma frase: ')
+fu = frase.upper()
+na = fu.count('A')
+primeiroa = fu.find('A') 
+ultimoa = fu.rfind('A')
+print(na)
+print(primeiroa,ultimoa)
