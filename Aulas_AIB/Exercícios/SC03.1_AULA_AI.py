@@ -1,7 +1,7 @@
 import math
 
 print('---------Calculadora de Perímetros e Áreas---------')
-print('Selecione uma das opções seguintes. \n 1. Triângulo; \n 2. Retângulo; \n 3. Círculo.')
+print('Selecione uma das opções seguintes. \n1. Triângulo; \n2. Retângulo; \n3. Círculo.')
 op = int(input('Escolho a opção: '))
 area = float(0)
 perimetro = float(0)
