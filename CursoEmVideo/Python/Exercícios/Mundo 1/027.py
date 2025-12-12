@@ -1,0 +1,6 @@
+nome = input('Digite o seu nome completo: ')
+nomes = nome.split()
+# pnome = print(nomes[0])
+# unome = print(nomes[-1])
+print(nomes[0])
+print(nomes[-1])
