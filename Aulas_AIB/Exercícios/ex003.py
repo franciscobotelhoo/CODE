@@ -7,3 +7,5 @@ n2 = int(input('Digite outro valor inteiro: '))
 s = n1 + n2
 
 print(f'A soma de {n1} com {n2} é {s}.')
+
+print(f'{n1}+{n2}={s}')
