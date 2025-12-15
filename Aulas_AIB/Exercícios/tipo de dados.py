@@ -6,11 +6,11 @@ print(n1.isnumeric())
 
 #isalpha
 a1 = input('Introduza algo: ')
-print(a1.isalpha)
+print(a1.isalpha())
 
 #isalnum
 an1 = input('Introduza algo: ')
-print(an1.isalnum)
+print(an1.isalnum())
 
 #isupper
 u1 = input('Introduza algo: ')
