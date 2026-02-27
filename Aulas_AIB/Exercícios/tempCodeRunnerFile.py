@@ -1,0 +1,1 @@
+print('EXERCÍCIO 017 - Encontrar a hipotenusa de um triângulo')
