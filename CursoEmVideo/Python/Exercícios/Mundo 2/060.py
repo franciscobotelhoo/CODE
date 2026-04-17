@@ -10,10 +10,11 @@
 #Exercício feito com while
 
 n = int(input('Digite um número: '))
-c = 1
+c = n
 fatorial = 1
-while c <= n:
-    fatorial *= c
-    c += 1
-print(fatorial)
 
+while c > 0:
+    fatorial *= c
+    c -= 1
+
+print(fatorial)
